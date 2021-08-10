@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5940844152009459082
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5940844152009459080}
+  - component: {fileID: 5940844152009459081}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5940844152009459080
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5940844152009459082}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.6427642, y: 2.456252, z: 3.1141176}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5940844152009459081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5940844152009459082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1635f4674ae28ad418a725a1839029ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  zone: {fileID: 0}
+  trigger: 0
+  levelName: Level_5
+  positions_zone: []
+  LevelTileInfo:
+    Positions:
+    - puzzleNumber: 1
+      PositionX: -1.0699999
+      PositionY: -0.01507473
+      PositionZ: -2.2771025
+    - puzzleNumber: 2
+      PositionX: -2.2466867
+      PositionY: -0.01507473
+      PositionZ: -0.9871025
+    - puzzleNumber: 3
+      PositionX: -3.5200002
+      PositionY: -0.01507473
+      PositionZ: 0.23289776
+    - puzzleNumber: 4
+      PositionX: -2.18
+      PositionY: -0.01507473
+      PositionZ: 1.3828976
+    - puzzleNumber: 5
+      PositionX: -1.2066867
+      PositionY: -0.01507473
+      PositionZ: 2.5728974
+    - puzzleNumber: 6
+      PositionX: -2.3100002
+      PositionY: -0.01507473
+      PositionZ: 3.7128975
+    - puzzleNumber: 7
+      PositionX: -3.36
+      PositionY: -0.01507473
+      PositionZ: 4.87
+    - puzzleNumber: 8
+      PositionX: -2.29
+      PositionY: -0.01507473
+      PositionZ: 6.15
+    - puzzleNumber: 9
+      PositionX: -2.11
+      PositionY: -0.01507473
+      PositionZ: -3.31
+    - puzzleNumber: 10
+      PositionX: -3.34
+      PositionY: -0.01507473
+      PositionZ: -4.4900002
+    - puzzleNumber: 11
+      PositionX: -2.1899998
+      PositionY: -0.01507473
+      PositionZ: -5.5799994
+    - puzzleNumber: 12
+      PositionX: 2.95
+      PositionY: -0.01507473
+      PositionZ: -2.2771025
+    - puzzleNumber: 13
+      PositionX: 1.7733133
+      PositionY: -0.01507473
+      PositionZ: -0.9871025
+    - puzzleNumber: 14
+      PositionX: 0.49999976
+      PositionY: -0.01507473
+      PositionZ: 0.23289776
+    - puzzleNumber: 15
+      PositionX: 1.8399999
+      PositionY: -0.01507473
+      PositionZ: 1.3828976
+    - puzzleNumber: 16
+      PositionX: 2.8133132
+      PositionY: -0.01507473
+      PositionZ: 2.5728974
+    - puzzleNumber: 17
+      PositionX: 1.7099998
+      PositionY: -0.01507473
+      PositionZ: 3.7128975
+    - puzzleNumber: 18
+      PositionX: 0.6600001
+      PositionY: -0.01507473
+      PositionZ: 4.87
+    - puzzleNumber: 19
+      PositionX: 1.73
+      PositionY: -0.01507473
+      PositionZ: 6.15
+    - puzzleNumber: 20
+      PositionX: 1.91
+      PositionY: -0.01507473
+      PositionZ: -3.31
+    - puzzleNumber: 21
+      PositionX: 0.68000007
+      PositionY: -0.01507473
+      PositionZ: -4.4900002
+    - puzzleNumber: 22
+      PositionX: 1.8300002
+      PositionY: -0.01507473
+      PositionZ: -5.5799994

@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoopEnergy.unity
+    guid: be76b5b70efb38f448fe1db4b16eecd2
   m_configObjects: {}
